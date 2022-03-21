@@ -19,7 +19,7 @@ Inspired by <a href="#">This Spotlight Project</a>
      easier to extract the data without typing those "bunch of lines".  so i took his idea after asking him nicely. and started working on the project.
   
 # Q. How it works? <br>
-   <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers it works over android debugging bridge (adb).
+   <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers. it works over android debugging bridge (adb).
     <br>
 
 
@@ -35,4 +35,10 @@ Inspired by <a href="#">This Spotlight Project</a>
 Having a tough time doing a Magisk root ??
 <br>
 Follow this guide <a href="https://www.xda-developers.com/root/">XDA-Developers Root Directory</a>
-    
+<br>
+
+# Contributors 
+<br>
+Special Thanks to <a href="https://github.com/programminghoch10">programminghoch10</a> for his idea,
+<br>
+Thanks to <a href="https://github.com/quamotion/madb">Quamotion's Madb Sharp ADB Client Library</a> for making it possible to communicate with Android devices using android debugging bridge in c#
