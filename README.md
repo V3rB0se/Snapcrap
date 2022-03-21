@@ -1,7 +1,5 @@
 # Snapcrap
 <br>
-# BroCode
-<br>
 Extract Snapchat Data on a Rooted Android Phone 
 
 Q. What Is Snapcrap?
