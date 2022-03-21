@@ -19,8 +19,6 @@ Q. Why?
      easier to extract the data without typing bunch of lines or notifying the bitch*s. so i took his idea after asking him nicely. and started working on the project.
   
 Q. How it works? <br>
-<br>
-<br>
    <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers.
     <br>
 # Q. Requirements? <br>
