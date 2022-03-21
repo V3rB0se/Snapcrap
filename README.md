@@ -12,8 +12,8 @@ Q. What Is Snapcrap?
   
 Q. Why? 
 <br>
-<br>
-   <b>A.</b> seriously? this question? anyway it wasn't because i fell jk lol. <br> I was searching for a way to extract the (snaps saved in the chat) without notifying my friends. after spending hours of browsing and searching through the
+   <b>A.</b> seriously? this question? anyway it wasn't because i fell for someone (jk). 
+   <br> I was searching for a way to extract the (snaps saved in the chat) without notifying my friends. after spending hours of browsing and searching through the
      internet i found a gist which claims to extract the data from snapchat. The gist is created by <a href="https://github.com/programminghoch10">programminghoch10</a>
      it's a shell script. the downside of his script is you have to type a bunch of lines in terminal to get it to work. The real reason of this project is to make it 
      easier to extract the data without typing bunch of lines or notifying the bitch*s. so i took his idea after asking him nicely. and started working on the project.
