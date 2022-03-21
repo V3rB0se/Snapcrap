@@ -1,8 +1,8 @@
 # SNAPCRAP
 <br>
 
-Extract Snapchat Data on a Rooted Android Phone 
-Inspired by This Spotlight Project
+Extract Snapchat Data on a Rooted Android Phone <br>
+Inspired by <a href="#">This Spotlight Project</a>
 
 # Q. What Is Snapcrap?
 <br>
