@@ -40,6 +40,6 @@ Follow this guide <a href="https://www.xda-developers.com/root/">XDA-Developers 
 # Contributors 
 <ul>
 Special Thanks to 
-<li><a href="https://github.com/programminghoch10">programminghoch10</a> for his idea,</li>
-<li><a href="https://github.com/quamotion/madb">Quamotion's Madb Sharp ADB Client Library</a> for making it possible to communicate with Android devices using android debugging bridge in c# </li>
+<li><a href="https://github.com/programminghoch10">programminghoch10</a></li>
+<li><a href="https://github.com/quamotion/madb">Quamotion's Madb Sharp ADB Client Library</a></li>
 </ul>
