@@ -12,15 +12,15 @@ Q. Why? <br>
   <b>A.</b> seriously? this question? anyway it wasn't because i fell jk lol. I was searching for a way to extract the (snaps saved in the chat) without notifying my friends. after spending hours of browsing and searching through the
      internet i found a gist which claims to extract the data from snapchat. The gist is created by <a href="https://github.com/programminghoch10">programminghoch10</a>
      it's a shell script. the downside of his script is you have to type a bunch of lines in terminal to get it to work. The real reason of this project is to make it 
-     easier to extract the data without typing bunch of lines or notifying the bitch*s. so i took his idea after asking him nicely.  and started working on the project. 
+     easier to extract the data without typing bunch of lines or notifying the bitch*s. so i took his idea after asking him nicely. and started working on the project.
   
 Q. How it works? <br>
   <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers.
     <br>
-Q. Requirements? <br>
+# Q. Requirements? <br>
     1. Rooted Android Phone (Obviously xD).
     2. Snapchat Installed (Well?).
     3. Bunch of Girlfriends (Obviously jk lol).
     4. Brain (Mandatory :P)
     
-Q. 
+    
