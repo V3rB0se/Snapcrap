@@ -1,4 +1,4 @@
-# Snapcrap
+# SNAPCRAP
 <br>
 Extract Snapchat Data on a Rooted Android Phone 
 
