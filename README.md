@@ -1,6 +1,8 @@
 # SNAPCRAP
 <br>
+
 Extract Snapchat Data on a Rooted Android Phone 
+Inspired by This Spotlight Project
 
 # Q. What Is Snapcrap?
 <br>
@@ -19,11 +21,18 @@ Extract Snapchat Data on a Rooted Android Phone
 # Q. How it works? <br>
    <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers it works over android debugging bridge (adb).
     <br>
-    
+
+
 # Q. Requirements? <br>
     1. Rooted Android Phone (Obviously xD).
     2. Snapchat Installed (Well?).
     3. Bunch of Girlfriends (Obviously jk lol).
     4. Brain (Mandatory :P)
     
+    
+    
+    
+Having a tough time doing a Magisk root ??
+<br>
+Follow this guide <a href="https://www.xda-developers.com/root/">XDA-Developers Root Directory</a>
     
