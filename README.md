@@ -31,12 +31,13 @@ Inspired by <a href="#">This Spotlight Project</a>
     
 # Q. Extraction
    <br>
+   
    1. Compile it using Visual Studio Code 2019 or 2022 OR Download a precompiled Executable <a href="#">from here </a><br>
    2. Turn on The Developer Options by tapping on build number 7 times <br>
    3. Turn on Usb Debugging from settings <br>
    4. Connect your Android Device to windows machine <br>
    5. Run the program and press Y you'll get a prompt on your android device confirming usb debugging. <br> allow it (you will get an error) first time. <br>
-   6. run the program again. once its done check the folder Snapchat_Exports 
+   6. Run the program again. When it finishes, you will find the result on your phone in a folder named snapchat_exports.
    
    <br>
    you have to run this program 2 times its a bug im still trying to figure out a solution to this problem.
