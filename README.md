@@ -2,7 +2,7 @@
 <br>
 
 Extract Snapchat Data on a Rooted Android Phone <br>
-Inspired by <a href="#">This Spotlight Project</a>
+Inspired by <a href="https://github.com/V3rB0se/Spotlighter">This Spotlight Project</a>
 
 # Q. What Is Snapcrap?
 <br>
