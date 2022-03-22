@@ -39,7 +39,9 @@ Inspired by <a href="#">This Spotlight Project</a>
    5. Run the program and press Y you'll get an error (do not close the program) disconnect the phone from your pc and connect again . <br> You'll get a prompt confirming usb debugging operation permission, allow it <br>
    6. Run the program again. When it finishes, you will find the result on your phone in a folder named snapchat_exports.
    <br>
-   you have to run this program 2 times its a bug im still trying to figure out a solution to this problem.
+   You have to run this program 2 times its a bug. I'm still trying to figure out a solution.
+   <br>
+   <br>
    <br>
 Having a tough time doing a Magisk root ??
 <br>
