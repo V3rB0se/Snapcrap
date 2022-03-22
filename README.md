@@ -36,9 +36,8 @@ Inspired by <a href="#">This Spotlight Project</a>
    2. Turn on The Developer Options by tapping on build number 7 times <br>
    3. Turn on Usb Debugging from settings <br>
    4. Connect your Android Device to windows machine <br>
-   5. Run the program and press Y you'll get a prompt on your android device confirming usb debugging. <br> allow it (you will get an error) first time. <br>
+   5. Run the program and press Y you'll get an error (do not close the program) disconnect the phone from your pc and connect again . <br> You'll get a prompt confirming usb debugging operation permission, allow it <br>
    6. Run the program again. When it finishes, you will find the result on your phone in a folder named snapchat_exports.
-   
    <br>
    you have to run this program 2 times its a bug im still trying to figure out a solution to this problem.
    <br>
