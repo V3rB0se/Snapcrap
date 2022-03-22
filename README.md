@@ -12,7 +12,7 @@ Inspired by <a href="https://github.com/V3rB0se/Spotlighter">This Spotlight Proj
   
 # Q. Why? 
 <br>
-   <b>A.</b> <b> seriously? this question? anyway it wasn't because i fell for someone (jk) </b>. 
+   <b>A.</b> <b> seriously? this question? anyway it was because i fell for someone (jk) </b>. 
    <br> I was searching for a way to extract the (snaps saved in the chat) without notifying my friends. after spending hours of browsing and searching through the
      internet i found a gist which claims to extract the data from snapchat. The gist is created by <a href="https://github.com/programminghoch10">programminghoch10</a>
      it's a shell script. the downside of his script is you have to type a bunch of lines in terminal to get it to work. The real reason of this project is to make it 
