@@ -37,7 +37,9 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
 <img src="https://ImageHostx.github.io/sc.png">
 <br>
    <b>A.</b> Snapcrap is a console application i made to make it easier to extract snapchat's data (snaps and shit) stored in the data folder of snapchat
-     using windows operating system.
+     using windows operating system.<br>
+     before using this program download and install this snapchat version <a href="https://mega.nz/file/HUZ2zLiZ#3DD8rAGq33ZhViuenTs7aqip6CChlyao6V2ziBjWE84">Snapchat v11</a>
+     
   
 # Q. Why? 
 <br>
@@ -54,7 +56,7 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
 
 # Q. Requirements? <br>
     1. Rooted Android Phone (Obviously xD).
-    2. Snapchat Installed (Well?).
+    2. Snapchat Installed (Well?)
     3. Bunch of Girlfriends (Obviously jk lol).
     4. Brain (Mandatory :P)
     
@@ -65,7 +67,7 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
    2. Turn on The Developer Options by tapping on build number 7 times <br>
    3. Turn on Usb Debugging from settings <br>
    4. Connect your Android Device to windows machine <br>
-   //4.5 Download and Install <a Login to Snapchat & open/play all the snaps saved in chat to load them.
+   4.5 Download and Install <a href="https://mega.nz/file/HUZ2zLiZ#3DD8rAGq33ZhViuenTs7aqip6CChlyao6V2ziBjWE84">Snapchat v11</a> Login to Snapchat & open/play all the snaps saved in chat to load them.
    5. Run the program and press Y you'll get an error (do not close the program) disconnect the phone from your pc and connect again . <br> You'll get a prompt confirming usb debugging operation permission, allow it <br>
    6. Run the program again. When it finishes, you will find the result on your phone in a folder named snapchat_exports.
    <br>
