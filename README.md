@@ -30,7 +30,11 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
 
 
 
+<br>
+
 # Q. What Is Snapcrap?
+<br>
+<img src="https://ImageHostx.github.io/sc.png">
 <br>
    <b>A.</b> Snapcrap is a console application i made to make it easier to extract snapchat's data (snaps and shit) stored in the data folder of snapchat
      using windows operating system.
