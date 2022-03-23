@@ -61,7 +61,7 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
    2. Turn on The Developer Options by tapping on build number 7 times <br>
    3. Turn on Usb Debugging from settings <br>
    4. Connect your Android Device to windows machine <br>
-   4.5 Login to Snapchat & open/play all the snaps saved in chat to load them.
+   //4.5 Download and Install <a Login to Snapchat & open/play all the snaps saved in chat to load them.
    5. Run the program and press Y you'll get an error (do not close the program) disconnect the phone from your pc and connect again . <br> You'll get a prompt confirming usb debugging operation permission, allow it <br>
    6. Run the program again. When it finishes, you will find the result on your phone in a folder named snapchat_exports.
    <br>
