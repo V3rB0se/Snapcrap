@@ -1,9 +1,31 @@
 # SNAPCRAP
+
+@Alynx_Facl
 <br>
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619952-3d89dc80-e997-11ea-9411-b729c3d49eb4.png" alt="logo" height="250px"></h3>
+<h3 align="center"><img src="https://ImageHostx.github.io/SP.png" alt="logo" height="250px"></h3>
 <p align="center">
-Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https://github.com/V3rB0se/Spotlighter">This Spotlight Project</a></p>
+Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https://github.com/V3rB0se/Spotlighter">This Spotlight Project</a>
+   <br>
+   <br>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Last%20Updated-Today-green">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Release-V1-red">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+    <img src="https://img.shields.io/badge/Language-C%23-blue">
+ </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Platform-Android%2FWindows-blue">
+ </a>
+  
+</p>
+</p>
+
+  
 <br>
 
 
