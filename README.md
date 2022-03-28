@@ -54,7 +54,8 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
     <br>
 
 
-# Q. Requirements? <br>
+# Q. Requirements? 
+<br>
     1. Rooted Android Phone (Obviously xD).
     2. Snapchat Installed (Well?)
     3. Bunch of ~~Girlfriends~~ (Obviously jk lol).
