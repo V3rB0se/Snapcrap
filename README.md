@@ -63,7 +63,7 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
 # Q. Extraction
    <br>
    
-   1. Compile it using Visual Studio Code 2019 or 2022 OR Download a precompiled Executable <a href="#">from here </a><br>
+   1. Compile it using Visual Studio Code 2019 or 2022 OR Download a precompiled Executable <a href="https://github.com/V3rB0se/Snapcrap/releases/download/v1/Program.zip">from here </a><br>
    2. Turn on The Developer Options by tapping on build number 7 times <br>
    3. Turn on Usb Debugging from settings <br>
    4. Connect your Android Device to windows machine <br>
