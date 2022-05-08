@@ -161,6 +161,9 @@ namespace SnapCrap_v1
         }
         static bool Banner()
         {
+            var valueBytes = System.Convert.FromBase64String("eXlvdSBzdXJlIGJybyBzaGUgYWluJ3QgYSBob2U/");
+            
+            Console.Title = Encoding.UTF8.GetString(valueBytes);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("███████ ███    ██  █████  ██████   ██████ ██████   █████  ██████  ");
