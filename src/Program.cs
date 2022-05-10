@@ -1,9 +1,10 @@
-﻿using SharpAdbClient;
+using SharpAdbClient;
 using System;
 using System.ComponentModel;
 using System.IO;
 using System.Net;
 using System.Threading;
+using System.Text;
 
 namespace SnapCrap_v1
 {
