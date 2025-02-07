@@ -29,26 +29,26 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
 
 <br>
 
-# Q. What Is Snapcrap?
+# What Is Snapcrap?
 <br>
 <img src="https://ImageHostx.github.io/sc.png">
 <br>
-   <b>A.</b> Snapcrap is a console application I made to make it easier to extract snapchat's data (snaps and shit) stored in the data folder of snapchat
+   <b></b> Snapcrap is a console application I made to make it easier to extract snapchat's data (snaps and shit) stored in the data folder of snapchat
      using windows.<br>
      before using this program download and install this snapchat version <a href="https://mega.nz/file/HUZ2zLiZ#3DD8rAGq33ZhViuenTs7aqip6CChlyao6V2ziBjWE84">Snapchat v11</a>
      
   
-# Q. How it works? <br>
-   <b>A.</b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers. it works over android debugging bridge (adb).
+# How it works? <br>
+   <b></b> it just extract the data stored in the data folder of snapchat to sdcard and change the extension to their respective file format using file headers. it works over android debugging bridge (adb).
     <br>
 
 
-# Q. Requirements? <br>
+# Requirements? <br>
     1. Rooted Android Phone.
     2. Snapchat Installed (Well?)
     3. Brain (Optional :P)
     
-# Q. Extraction
+# Extraction
    <br>
    1. Compile it using Visual Studio Code 2019 or 2022 OR Download a precompiled Executable <a href="https://github.com/V3rB0se/Snapcrap/releases/download/v1/Program.zip">from here </a><br>
    2. Turn on The Developer Options by tapping on build number 7 times <br>
