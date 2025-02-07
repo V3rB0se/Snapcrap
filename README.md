@@ -10,9 +10,6 @@ Extract Snapchat Data on a Rooted Android Phone <br> Inspired by <a href="https:
    <br>
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Last%20Updated-Today-green">
-  </a> 
-  <a href="#">
     <img src="https://img.shields.io/badge/Release-V1-red">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
